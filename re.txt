@@ -1,0 +1,5 @@
+underthesea
+emoji
+tensorflow == 2.9.2
+numpy
+pickle
