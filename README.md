@@ -5,5 +5,5 @@ Have you ever wanted to quickly understand the information you read on the inter
 
 # Tool 
 
-Numpy
-Libarary crawl of python
+- Numpy
+- Libarary crawl of python
